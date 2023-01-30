@@ -1,2 +1,2 @@
-# Responsive-Login-Page
-Responsive Login Page Using html, css and bootstrap.
+# Responsive-Login-Page-with-registration
+Responsive Login & registration Page Using html, css and bootstrap.
